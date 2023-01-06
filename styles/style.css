@@ -9,6 +9,7 @@ h1{
 }
 /* Header style */
 .header-container{
+    background-image: url(../images/top-banner.png);
     display: flex;
 }
 .half-width{
