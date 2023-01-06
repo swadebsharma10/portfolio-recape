@@ -1,5 +1,6 @@
 *{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -10,7 +11,10 @@ h1{
 /* Header style */
 .header-container{
     background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
     display: flex;
+    padding-top: 10px;
+    margin-bottom: 100px;
 }
 .half-width{
    width: 50%; 
@@ -28,4 +32,7 @@ h1{
     color: #ffff;
     font-weight: 700;
     
+}
+.description{
+    margin-bottom: 20px;
 }
