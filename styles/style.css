@@ -64,3 +64,13 @@ h1{
     
     border-left: 5px solid blue; 
 }
+/* footer style */
+.footer{
+    padding: 10px;
+}
+.footer p{
+    text-align: center;
+}
+.footer-title{
+    text-align: center;
+}
