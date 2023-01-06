@@ -36,3 +36,8 @@ h1{
 .description{
     margin-bottom: 20px;
 }
+/* Dream big style */
+.dream-big{
+   background-image: url(../images/dream-bg.png); 
+   background-position: right;
+}
